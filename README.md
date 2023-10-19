@@ -37,7 +37,7 @@ git clone https://github.com/RyzhasMomentas/DNP-1Y-Assignment1-Assignment2.git
 ```
 Compile the code and run both BlazorWASM and WebAPI processes.
 
-(Missing picture)
+![Configs](images/Configurations.png)
     
 ## License
 
